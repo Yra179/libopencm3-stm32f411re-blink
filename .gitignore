@@ -1,3 +1,4 @@
+libopencm3/
 bin/
 *.elf
 *.bin
